@@ -43,7 +43,7 @@ github.com/nanami-studio/nanami-skills の skills/matome を
 
 - `skills/grill-me` と `skills/grilling` は、Matt Pocock氏の [mattpocock/skills](https://github.com/mattpocock/skills)（MITライセンス）を基にしたものです。それぞれのフォルダに元のLICENSEファイルを同梱しています
 - `skills/grilling` は元の「複数質問を一括出題」する仕様を「1問ずつ出題（回答を待って次へ）」に調整済みです。会話はユーザーの言語（日本語なら日本語）で行います
-- `skills/hikitsugi` と `skills/matome` は自作スキルで、ライセンスはこのリポジトリ直下の `LICENSE`（MIT / Copyright (c) 2026 NANAMI）です（`skills/matome` には同じものをフォルダ内にも同梱しています）
+- `skills/hikitsugi` と `skills/matome` は自作スキルで、ライセンスはこのリポジトリ直下の `LICENSE`（MIT / Copyright (c) 2026 NANAMI）です（`skills/hikitsugi` と `skills/matome` には、同じものをそれぞれのフォルダ内にも同梱しています）
 
 ---
 

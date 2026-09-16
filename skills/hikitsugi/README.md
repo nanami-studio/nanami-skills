@@ -22,4 +22,4 @@ github.com/nanami-studio/nanami-skills の skills/hikitsugi を
 
 ## 作者・ライセンス
 
-NANAMIの自作スキルです。ライセンスはリポジトリ（ファイルの置き場）直下の `LICENSE`（MIT）が適用されます。
+NANAMIの自作スキルです。ライセンスはこのフォルダの `LICENSE`（MIT）が適用されます。
